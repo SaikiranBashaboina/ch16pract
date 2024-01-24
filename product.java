@@ -41,7 +41,7 @@ class shop
      }
      total2=total2-charges+carry_bag;
      System.out.println("Grand Total is "+(int)total2);
-     System.out.println("THANK YOU VISIT AGAIN");
+     System.out.println("THANK YOU VISIT AGAIN,saiki");
   }
 }
 

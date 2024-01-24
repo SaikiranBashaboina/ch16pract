@@ -1,4 +1,4 @@
-class shop
+class
 { 
   public static void main(String args[])
   {

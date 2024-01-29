@@ -3,10 +3,10 @@ class employee
   public static void main(String args[])
   {
      String ename="B.Saikiran",eid="19P71A0461",edesignation="Software Developer",edept="IT";
-     int present_days=23,emp_exper=5;
+     int present_days=23, emp_exper=5;
      double work_days=25,actual_salary=25000,salary_recv,hike_salary, total_salary;
      System.out.println("Employee Name: "+ename);
-     System.out.println("Employee ID: "+eid);
+     System.out.println("Employee ID:"+eid);
      System.out.println("Employee Designation: "+edesignation);
      System.out.println("Employee Department: "+edept);
      salary_recv=present_days/work_days*actual_salary;
